@@ -1,1 +1,2 @@
-utilty functions for version 1
+utilty functions for version 2
+
